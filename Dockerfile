@@ -1,0 +1,2 @@
+FROM mcr.microsoft.com/dotnet/sdk:6.0.302-focal@sha256:749439ff7a431ab4bc38d43cea453dff9ae1ed89a707c318b5082f9b2b25fa22
+FROM mcr.microsoft.com/dotnet/runtime:6.0.7-focal@sha256:010276272c4e4175e340b7db359a04f833b5659ebb03e7b0b51de3abe4cf7471
