@@ -4,6 +4,7 @@
     "config:base"
   ],
   "semanticCommits": "enabled",
+  "separateMinorPatch": true,
   "packageRules": [
     {
       "matchPackagePatterns": ["^mcr\\.microsoft\\.com\\/dotnet\\/"],
